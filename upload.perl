@@ -12,4 +12,3 @@ submit => true
 
 );
 print $res->as_string();
-print str('Operation Complete'); 
