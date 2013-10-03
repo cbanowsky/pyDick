@@ -18,8 +18,10 @@ Note that all paths are relative to the pyDick directory.  If using other script
 >then run from terminal <code>./pyDick</code> ** you may need to 
 <code>chmod +x ./pyDick</code>
 
-you can now navigate to http://whoeverscrewedyouover.com/some_upload_dir/test.php to access your shell.
+you can now navigate to http://whoeverscrewedyouover.com/some_upload_dir/shell.php to access your shell.
 
 
 the default password is: b374k
+this can be changed in the <code>shell.php</code> source
+
 
