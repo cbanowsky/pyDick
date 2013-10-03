@@ -1,0 +1,6 @@
+#! /bin/bash
+
+python ./pyhack.py
+perl ./upload.perl
+
+echo 'Done'
